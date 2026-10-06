@@ -1,7 +1,7 @@
 # Comfort Lang
 一款以「极致清爽的人机交互」为核心设计的新型命令式编程语言，主打“无冗余语法、直觉式操作、兼容Python生态”，让写代码像和计算机对话一样简单～
 
-> Read this document in **[English](./c)**
+> Read this document in **[English](./README-en.md)**
 
 ## ✨ 核心特色
 1. **无冗余语法**：砍掉所有为机器解析服务的冗余符号，聚焦“人用着舒服”
